@@ -185,9 +185,9 @@ body {
 @media (max-width: 768px) { 
     .faq-card {
         margin: 25px;
-        margin-top: 200px;
+        margin-top: 175px;
         flex-flow: column nowrap;
-        width: calc(100vw - 48px);
+        width: 327px;
         height: auto;
     }
 
